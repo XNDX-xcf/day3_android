@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">斗鱼直播</string>
+    <string name="tatille1">美食</string>
+    <string name="tatille2">DOTA</string>
+    <string name="tatille3">交友</string>
+    <string name="tatille4">文化</string>
+    <string name="tatille5">英雄联盟</string>
+    <string name="tatille6">绝地求生</string>
+    <string name="tatille7">王者荣耀</string>
+    <string name="tatille8">DNF</string>
+    <string name="tatille9">主机游戏</string>
+    <string name="tatille10">更多</string>
+    <string name="tatille11">猜你喜欢</string>
+</resources>
